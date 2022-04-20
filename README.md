@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋 Am Asit
 
-<!--
-**asitdass/asitdass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Worked as an intern in the field of Web Development. Quite confident in HTML, CSS and JavaScript and worked as a front end developer. Currently I am learning the Backend process and soon will be able to work in backend also. Done various projects in front end which gives me a confidence that I can work better in Front end development.*
 
-Here are some ideas to get you started:
+
+### About Me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
